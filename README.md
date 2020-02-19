@@ -70,5 +70,5 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Max-Tegmark-Publications/blob/master/max(39).pdf" style="text-decoration:none;">Why Is the Cosmic Microwave Background Fluctuation Level 10<sup>−5</sup>?</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Max-Tegmark-Publications/blob/master/max(40).pdf" style="text-decoration:none;">Dimensionless constants, cosmology, and other dark matters</a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Max-Tegmark-Publications/blob/master/max(41).pdf" style="text-decoration:none;">On the dimensionality of spacetime</a></b></li>
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Max-Tegmark-Publications/blob/master/max(42).pdf" style="text-decoration:none;">Interview: Max Tegmark on Superintelligent AI, Cosmic Apocalypse, and Life 3.0</a></b></li>
 </ul>
