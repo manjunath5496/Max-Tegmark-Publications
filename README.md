@@ -1,3 +1,52 @@
+<p><strong>Max Erik Tegmark</strong><sup id="cite_ref-1" class="reference"></sup>&nbsp;(born 5 May 1967) is a&nbsp;<a title="Swedish Americans" href="https://en.wikipedia.org/wiki/Swedish_Americans">Swedish-American</a>&nbsp;physicist,&nbsp;<a title="Cosmology" href="https://en.wikipedia.org/wiki/Cosmology">cosmologist</a>&nbsp;and machine learning researcher. He is a professor at the&nbsp;<a title="Massachusetts Institute of Technology" href="https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology">Massachusetts Institute of Technology</a>&nbsp;and the scientific director of the&nbsp;<a title="Foundational Questions Institute" href="https://en.wikipedia.org/wiki/Foundational_Questions_Institute">Foundational Questions Institute</a>. He is also a co-founder of the&nbsp;<a title="Future of Life Institute" href="https://en.wikipedia.org/wiki/Future_of_Life_Institute">Future of Life Institute</a>&nbsp;and a supporter of the&nbsp;<a title="Effective altruism" href="https://en.wikipedia.org/wiki/Effective_altruism">effective altruism movement</a>, and has received donations from&nbsp;<a title="Elon Musk" href="https://en.wikipedia.org/wiki/Elon_Musk">Elon Musk</a>&nbsp;to investigate&nbsp;<a class="mw-redirect" title="Existential risk from advanced artificial intelligence" href="https://en.wikipedia.org/wiki/Existential_risk_from_advanced_artificial_intelligence">existential risk from advanced artificial intelligence</a>.</p>
+</br>
+
+<table class="infobox biography vcard">
+<tbody>
+<tr>
+<th colspan="2">
+<div class="fn">Max Tegmark</div>
+</th>
+</tr>
+<tr>
+<td colspan="2"><a class="image" href="180px-Max_Tegmark.jpg"><img src="180px-Max_Tegmark.jpg" srcset="180px-Max_Tegmark.jpg" alt="Max Tegmark.jpg" width="180" height="178" data-file-width="377" data-file-height="372" /></a></td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td>May 5, 1967<span class="noprint ForceAgeToShow">&nbsp;(age&nbsp;53)</span><br />
+<div class="birthplace">Sweden</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td class="category">Swedish<br />American</td>
+</tr>
+<tr>
+<th scope="row">Alma&nbsp;mater</th>
+<td><a class="mw-redirect" title="Royal Institute of Technology" href="https://en.wikipedia.org/wiki/Royal_Institute_of_Technology">Royal Institute of Technology</a><br /><a title="University of California, Berkeley" href="https://en.wikipedia.org/wiki/University_of_California,_Berkeley">UC Berkeley</a></td>
+</tr>
+<tr>
+<td colspan="2"><strong>Scientific career</strong></td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category"><a title="Cosmology" href="https://en.wikipedia.org/wiki/Cosmology">Cosmology</a>,&nbsp;<a title="Physics" href="https://en.wikipedia.org/wiki/Physics">physics</a>,&nbsp;<a title="Machine learning" href="https://en.wikipedia.org/wiki/Machine_learning">machine learning</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a title="Massachusetts Institute of Technology" href="https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology">MIT</a></td>
+</tr>
+<tr>
+<th scope="row"><a title="Doctoral advisor" href="https://en.wikipedia.org/wiki/Doctoral_advisor">Doctoral advisor</a></th>
+<td><a title="Joseph Silk" href="https://en.wikipedia.org/wiki/Joseph_Silk">Joseph Silk</a></td>
+</tr>
+</tbody>
+</table>
+
+
+
+</br>
+<h2> Books </h2>
 <ul>
 
                              
